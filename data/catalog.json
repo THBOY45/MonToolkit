@@ -1,0 +1,14 @@
+{
+  "toolkit_name": "Mon Toolkit",
+  "primary_color": "#0078D4",
+  "logo_path": "",
+  "version": 2,
+  "categories": [
+    {
+      "id": "c2ff6fb8f6a0",
+      "name": "Optimisation",
+      "order": 0
+    }
+  ],
+  "softwares": []
+}
