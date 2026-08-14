@@ -2,7 +2,7 @@
   "toolkit_name": "Mon Toolkit",
   "primary_color": "#0078D4",
   "logo_path": "",
-  "version": 2,
+  "version": 3,
   "categories": [
     {
       "id": "c2ff6fb8f6a0",
@@ -10,5 +10,20 @@
       "order": 0
     }
   ],
-  "softwares": []
+  "softwares": [
+    {
+      "id": "25304f4d0fce",
+      "name": "Power plan",
+      "description": "mode de gestion de l'alimentation",
+      "category_id": "c2ff6fb8f6a0",
+      "version": "1.0.0",
+      "file_path": "files/25304f4d0fce/Power plan.bat",
+      "icon_path": "icons/25304f4d0fce.jpg",
+      "file_name": "Power plan.bat",
+      "file_type": ".bat",
+      "size_bytes": 750,
+      "date_added": "2026-08-14T19:41:16Z",
+      "date_updated": "2026-08-14T19:41:16Z"
+    }
+  ]
 }
